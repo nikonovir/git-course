@@ -1,0 +1,23 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+strong{
+    color: red;
+}
+table{
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+td{
+    border-left: 3px solid blue;
+    height: 80px;
+}
+:hover{
+    border-color: cyan;
+}
